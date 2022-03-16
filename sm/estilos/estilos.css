@@ -9,9 +9,6 @@ body{height:100%;
     color:#272643;
     font-family: Century Gothic,'Roboto', sans-serif;
     text-align:center;
-
-    
-   
 }
 
 
@@ -20,6 +17,7 @@ h1 {
   color: #2c698d;
   height:auto;
 } 
+
 .invitation {padding: 2% 0;
   height:auto;
   overflow: visible;
@@ -54,7 +52,6 @@ h1 {
 
 iframe {
   max-width:92%;
-
   object-fit:contain;
   border-style: solid;
   border-color: #272643;
