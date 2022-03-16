@@ -1,14 +1,14 @@
 .principal {
-    background: #bae8e8;
-    text-align: left;
-    box-sizing:border-box;
-    height: auto;
+    background: #e3f6f5;
     color:#272643;
     font-family: Century Gothic,'Roboto', sans-serif;
     padding: 3% 7%;
     position: absolute;
     left: 38px;
     transition: all 500ms linear;
+    text-align: center;
+    box-sizing:border-box;
+    height: auto;
 }
 
 
